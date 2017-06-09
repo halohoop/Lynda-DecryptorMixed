@@ -1,5 +1,7 @@
 # -Lynda-DecryptorMixed
 
+**Technical exchanges should not be used for commercial purposes**
+
  Lynda-Decryptor mixed version with videos and captions!
 
 ### A mixed version;
